@@ -415,3 +415,4 @@ A curated list of Python libraries used for data science.
 - [great_expectations](https://github.com/great-expectations/great_expectations) - F framework that helps teams save time and promote analytic integrity with a new twist on automated testing: pipeline tests.
 - [parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
 - [CleverCSV](https://github.com/alan-turing-institute/CleverCSV) - CleverCSV is a Python package for handling messy CSV files
+- [csvtidy](https://github.com/abhishekrai43/csvtidy) - Clean and merge messy CSV files from the command line; offline, DuckDB-powered (handles files bigger than RAM), recipe-driven.
